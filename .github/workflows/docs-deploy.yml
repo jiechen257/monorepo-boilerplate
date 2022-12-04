@@ -43,7 +43,7 @@ jobs:
         # 环境变量
         env:
           # 对应 github 设置的 ACTION_SECRET
-          GITHUB_TOKEN: ${{ secrets.ACTION_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.PNPM_TOOL_TEMPLATE_SECRET }}
         with:
           # 部署到 gh-pages 分支
           target_branch: gh-pages
