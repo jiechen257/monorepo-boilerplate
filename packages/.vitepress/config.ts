@@ -14,8 +14,8 @@ const DefaultSideBar = [
 ];
 
 export default {
-  base: '/vmejs/',
-  title: 'vmejs',
+  base: '/pnpm-tool-template/',
+  title: 'pnpm-tool-template',
   lang: 'zh-CN',
   themeConfig: {
     logo: '/logo.png',
