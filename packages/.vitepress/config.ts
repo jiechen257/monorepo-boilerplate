@@ -15,18 +15,13 @@ const DefaultSideBar = [
 
 export default {
   base: '/pnpm-tool-template/',
-  title: 'pnpm-tool-template',
+  title: 'knifejs',
   lang: 'zh-CN',
   themeConfig: {
     logo: '/logo.png',
     lastUpdated: true,
     lastUpdatedText: '最后修改时间',
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vmejs/vmejs' }],
-    // editLinks: true,
-    // editLink: {
-    //   pattern: 'https://github.com/vmejs/vmejs/main/docs/:path',
-    //   text: '为此页提供修改建议',
-    // },
+    socialLinks: [{ icon: 'github', link: 'https://github.com/jiechen257' }],
     nav: [
       { text: '快速指南', link: '/guild/' },
       { text: '函数集合', link: '/core/getDevice/' },

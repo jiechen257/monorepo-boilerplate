@@ -2,13 +2,12 @@
 layout: home
 sidebar: false
 
-title: vmejs
-titleTemplate: 一个令人疯狂的开源前端工具库
+title: knifejs
+titleTemplate: 前端工具库
 
 hero:
-  name: vmejs
-  text: 一个令人疯狂的开源前端工具库
-  tagline: 🎉 🎉 🎉 一个令人疯狂的开源前端工具库，A crazy tool library, So may you v me 50？
+  name: knifejs
+  text: 前端工具库的瑞士军刀
   actions:
     - theme: brand
       text: 快速开始
@@ -24,7 +23,7 @@ hero:
       link: /react
     - theme: alt
       text: View on GitHub
-      link: https://github.com/jeddygong
+      link: https://github.com/jiechen257
 
 features:
   - title: 功能丰富
