@@ -28,7 +28,7 @@ export default {
     //   text: '为此页提供修改建议',
     // },
     nav: [
-      { text: '指南', link: '/guild/' },
+      { text: '快速指南', link: '/guild/' },
       { text: '函数集合', link: '/core/getDevice/' },
     ],
     // 侧边栏
