@@ -14,7 +14,7 @@ const DefaultSideBar = [
 ];
 
 export default {
-  base: '/pnpm-tool-template/',
+  base: '/monorepo-boilerplate/',
   title: 'knifejs',
   lang: 'zh-CN',
   themeConfig: {
